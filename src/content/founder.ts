@@ -2,11 +2,11 @@ export const founder = {
   name: 'Hakim',
   title: 'Founder',
   portrait: '/images/profile-photo.jpg',
-  intro: 'Hey 👋 I am Hakim, the builder behind Birdly.',
+  intro: 'Hey 👋 I am Hakim, the builder behind Crystal.',
   paragraphs: [
-    'Birdly started from a simple goal: make bird identification instant and genuinely useful in real-world birdwatching.',
-    'We designed the app to be frictionless: upload or take a photo, get likely bird matches, and learn something valuable right away.',
-    'Every identification will be saved to your history, then opened later for the bird name, facts, description, and metadata.',
+    'Crystal started from a simple goal: make rock and crystal identification instant and genuinely useful in the real world.',
+    'We designed the app to be frictionless: upload or take a photo, get likely matches, and learn valuable geological details right away.',
+    'Every identification is saved to your history so you can revisit names, descriptions, facts, physical properties, and metadata.',
   ],
   ps: 'If you have ideas or feedback, I read every message at support@h2adigital.com.',
   links: {

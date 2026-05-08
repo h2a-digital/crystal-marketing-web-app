@@ -42,7 +42,7 @@ export function Faq() {
             Questions, Answered
           </h2>
           <p className="mx-auto max-w-2xl text-xl font-medium text-gray-600">
-            Everything you need to know before your next bird identification.
+            Everything you need to know before your next rock or crystal identification.
           </p>
         </motion.div>
 

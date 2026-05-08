@@ -1,26 +1,26 @@
 export const how = [
   {
     number: 1,
-    title: 'Add a Bird Photo',
+    title: 'Add a Rock or Crystal Photo',
     description:
-      'Upload from your camera roll or take a new picture of the bird on the spot.',
+      'Upload from your camera roll or take a new picture in the app.',
   },
   {
     number: 2,
     title: 'Run AI Analysis',
     description:
-      'Birdly analyzes visual traits from your photo and generates likely species matches.',
+      'Crystal analyzes visual traits and returns likely rock, mineral, gemstone, and crystal matches.',
   },
   {
     number: 3,
-    title: 'Review Bird Matches',
+    title: 'Review Identification Details',
     description:
-      'Get fast candidate results with species details, facts, and birdwatching insights.',
+      'See candidate matches with geological facts, physical properties, and educational insights.',
   },
   {
     number: 4,
     title: 'Save to History',
     description:
-      'Keep discoveries in your history and open detail screens with name, description, facts, and metadata.',
+      'Keep discoveries in history and open detail screens with name, description, facts, properties, and metadata.',
   },
 ];

@@ -25,8 +25,7 @@ export function Footer() {
               <span className="text-xl font-bold text-gray-900">{site.app.name}</span>
             </div>
             <p className="max-w-sm text-gray-600">
-              Identify birds from photos in seconds with fast AI matching, species details, and
-              discovery history.
+              Identify rocks, minerals, gemstones, and crystals from photos with fast AI matching and saved discovery history.
             </p>
           </div>
 

@@ -41,21 +41,21 @@ export function Hero() {
             >
               <span className="text-2xl">✨</span>
               <span className="text-sm font-semibold text-gray-900">
-                AI-Powered Bird Identification
+                AI-Powered Rock & Crystal Identification
               </span>
             </motion.div>
 
             <h1 className="mb-6 text-5xl leading-tight font-black text-gray-900 md:text-6xl lg:text-7xl">
-              Identify Birds
+              Identify Rocks & Crystals
               <br />
-              <span className="bg-gradient-to-r from-gray-900 to-gray-600 bg-clip-text text-transparent">
+              <span className="bg-gradient-to-r from-[#6E6259] to-black bg-clip-text text-transparent">
                 From Photos
               </span>
             </h1>
 
             <p className="mx-auto mb-8 max-w-xl text-xl font-medium text-gray-600 md:text-2xl lg:mx-0">
-              Upload or snap a bird photo and get likely species matches, facts, and insights in
-              seconds.
+              Upload or snap a rock photo and get likely matches, geological facts, and physical
+              property insights in seconds.
             </p>
 
             <div className="mb-8 flex flex-col justify-center gap-4 sm:flex-row lg:justify-start">
@@ -78,7 +78,7 @@ export function Hero() {
                     </span>
                   ))}
                 </div>
-                <span className="font-semibold text-gray-700">Fast AI Matches</span>
+                <span className="font-semibold text-gray-700">Fast AI Identification</span>
               </div>
               {/* <div className="flex items-center gap-2 text-gray-700">
                 <span className="text-xl">🔒</span>
@@ -86,7 +86,7 @@ export function Hero() {
               </div> */}
               <div className="flex items-center gap-2 text-gray-700">
                 <span className="text-xl">⚡</span>
-                <span className="font-semibold">Seconds to Identify</span>
+                <span className="font-semibold">Results in Seconds</span>
               </div>
             </div>
           </motion.div>

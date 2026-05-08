@@ -1,6 +1,6 @@
-# Birdly Marketing Website
+# Crystal Marketing Website
 
-> A modern, responsive marketing website for the Birdly AI bird identifier app.
+> A modern, responsive marketing website for the Crystal AI crystal and rock identifier app.
 
 ![Next.js](https://img.shields.io/badge/Next.js-16.0-black?logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)
@@ -20,9 +20,9 @@
 
 ## 🎯 Overview
 
-Birdly Marketing Website is a high-performance, SEO-optimized marketing site built with Next.js 16 and the App Router. It showcases the Birdly mobile app - an AI-powered experience that identifies birds from photos in seconds.
+Crystal Marketing Website is a high-performance, SEO-optimized marketing site built with Next.js 16 and the App Router. It showcases the Crystal mobile app - an AI-powered experience that identifies rocks, minerals, gemstones, and crystals from photos in seconds.
 
-**Live Site:** [https://genkid.h2adigital.com](https://genkid.h2adigital.com)
+**Live Site:** [https://crystal.h2adigital.com](https://crystal.h2adigital.com)
 
 ## ✨ Features
 
@@ -72,7 +72,7 @@ Birdly Marketing Website is a high-performance, SEO-optimized marketing site bui
 ## 📁 Project Structure
 
 ```
-birdly-marketing-web-app/
+crystal-marketing-web-app/
 ├── public/                      # Static assets
 │   ├── screenshots/             # App screenshots (upload, identification, saved history)
 │   ├── site.webmanifest         # PWA manifest
@@ -120,7 +120,7 @@ birdly-marketing-web-app/
 
    ```bash
    git clone <repository-url>
-   cd birdly-marketing-web-app
+   cd crystal-marketing-web-app
    ```
 
 2. **Install dependencies**
@@ -152,7 +152,7 @@ Create a `.env.local` file with these variables:
 
 ```env
 # Site Configuration
-NEXT_PUBLIC_SITE_URL=https://birdly.h2adigital.com
+NEXT_PUBLIC_SITE_URL=https://crystal.h2adigital.com
 
 # PostHog Analytics
 NEXT_PUBLIC_POSTHOG_KEY=your_posthog_project_key
@@ -231,5 +231,5 @@ All event names use the `EVT` constants for type safety.
 ## 📞 Support
 
 - **Email**: support@h2adigital.com
-- **Website**: [https://birdly.h2adigital.com](https://birdly.h2adigital.com)
+- **Website**: [https://crystal.h2adigital.com](https://crystal.h2adigital.com)
 - **Company**: H2A Digital LLC

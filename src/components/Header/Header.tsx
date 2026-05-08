@@ -98,7 +98,7 @@ export function Header() {
             <a
               href="#download"
               onClick={(e) => scrollToSection(e, '#download')}
-              className="rounded-full bg-[#2F8A5A] px-6 py-2.5 text-sm font-semibold text-white transition-all hover:scale-105 hover:bg-[#257347] active:scale-95"
+              className="rounded-full bg-[#6E6259] px-6 py-2.5 text-sm font-semibold text-white transition-all hover:scale-105 hover:bg-[#5C524A] active:scale-95"
             >
               Download App
             </a>
@@ -147,7 +147,7 @@ export function Header() {
               <a
                 href="#download"
                 onClick={(e) => scrollToSection(e, '#download')}
-                className="rounded-full bg-[#2F8A5A] px-6 py-3 text-center text-base font-semibold text-white"
+                className="rounded-full bg-[#6E6259] px-6 py-3 text-center text-base font-semibold text-white"
               >
                 Download App
               </a>

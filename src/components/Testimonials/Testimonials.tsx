@@ -15,10 +15,10 @@ export function Testimonials() {
         >
           <div className="mb-4 text-5xl">💝</div>
           <h2 className="mb-4 text-4xl font-black text-gray-900 md:text-5xl">
-            Loved by Birdwatchers
+            Loved by Rock & Crystal Enthusiasts
           </h2>
           <p className="mx-auto max-w-2xl text-xl text-gray-600">
-            Placeholder stories from early users testing Birdly in the field.
+            Stories from early users testing Crystal in real-world collecting and study.
           </p>
         </motion.div>
 

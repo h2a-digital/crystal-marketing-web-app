@@ -18,7 +18,7 @@ export function Features() {
             Powerful Features, Simple Experience
           </h2>
           <p className="mx-auto max-w-2xl text-xl text-gray-600">
-            Everything you need to identify birds, learn quickly, and build your discovery history.
+            Everything you need to identify rocks and crystals, learn quickly, and build your discovery history.
           </p>
         </motion.div>
 

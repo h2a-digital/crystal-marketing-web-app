@@ -122,8 +122,8 @@ export default function DownloadPage() {
                   </svg>
                 </div>
                 <div>
-                  <h3 className="font-semibold text-gray-900">AI Bird Matches</h3>
-                  <p className="text-sm text-gray-600">Likely species in seconds</p>
+                  <h3 className="font-semibold text-gray-900">AI Rock & Crystal Matches</h3>
+                  <p className="text-sm text-gray-600">Likely matches in seconds</p>
                 </div>
               </div>
 
@@ -176,7 +176,7 @@ export default function DownloadPage() {
               Download {site.app.name}
             </h1>
             <p className="mb-8 text-lg text-gray-600">
-              Identify birds from photos in seconds.
+              Identify rocks, minerals, gemstones, and crystals from photos in seconds.
             </p>
 
             <div className="mb-8 flex justify-center">
@@ -224,8 +224,8 @@ export default function DownloadPage() {
                   </svg>
                 </div>
                 <div>
-                  <h3 className="font-semibold text-gray-900">AI Bird Matches</h3>
-                  <p className="text-sm text-gray-600">Likely species in seconds</p>
+                  <h3 className="font-semibold text-gray-900">AI Rock & Crystal Matches</h3>
+                  <p className="text-sm text-gray-600">Likely matches in seconds</p>
                 </div>
               </div>
 

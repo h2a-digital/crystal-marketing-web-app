@@ -37,7 +37,7 @@ export function Download() {
             transition={{ type: 'spring', delay: 0.2 }}
             className="mb-8 flex justify-center gap-4 text-6xl"
           >
-            <span>🕊️</span>
+            <span>🪨</span>
             <span>✨</span>
             <span>📱</span>
           </motion.div>
@@ -45,13 +45,13 @@ export function Download() {
           <h2 className="mb-6 text-5xl font-black text-gray-900 md:text-6xl lg:text-7xl">
             Ready to Identify
             <br />
-            <span className="bg-gradient-to-r from-gray-900 to-gray-600 bg-clip-text text-transparent">
-              Birds Faster?
+            <span className="bg-gradient-to-r from-[#6E6259] to-black bg-clip-text text-transparent">
+              Rock & Crystal Insights Faster?
             </span>
           </h2>
 
           <p className="mx-auto mb-12 max-w-2xl text-xl font-medium text-gray-600 md:text-2xl">
-            Download Birdly and turn every bird photo into a fast, insight-rich species match.
+            Download Crystal and turn every rock or crystal photo into a fast, insight-rich identification.
           </p>
 
           <div className="mb-12 flex flex-col justify-center gap-4 sm:flex-row">
@@ -77,8 +77,8 @@ export function Download() {
               <span className="font-semibold">4.9/5 Rating</span>
             </div>
             <div className="flex items-center gap-2">
-              <span className="text-2xl">🌿</span>
-              <span className="font-semibold">Built for Birding</span>
+              <span className="text-2xl">🧪</span>
+              <span className="font-semibold">Built for Collectors</span>
             </div>
             {/* <div className="flex items-center gap-2">
               <span className="text-2xl">🔒</span>

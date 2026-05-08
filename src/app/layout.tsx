@@ -17,30 +17,30 @@ export const metadata: Metadata = {
     template: `%s | ${site.app.name}`,
   },
   description:
-    'Upload or take a bird photo and get fast AI-powered bird identification with species details, facts, and saved discovery history.',
+    'Upload or take a photo to identify rocks, minerals, gemstones, and crystals in seconds with AI-powered matches, geological facts, and physical property details.',
   keywords: [
-    'bird identifier app',
-    'ai bird identification',
-    'identify birds from photos',
-    'bird species finder',
-    'birdwatching app',
-    'bird facts',
-    'bird recognition',
-    'photo bird matcher',
-    'bird discovery history',
-    'Birdly',
+    'crystal identifier app',
+    'rock identifier app',
+    'mineral identifier',
+    'gemstone identifier',
+    'identify rocks from photos',
+    'identify crystals from photos',
+    'ai crystal identification',
+    'geology app',
+    'crystal discovery history',
+    'Crystal',
   ],
   authors: [{ name: site.company.name, url: 'https://h2adigital.com' }],
   creator: site.company.name,
   applicationName: site.app.name,
-  category: 'Lifestyle',
+  category: 'Education',
   openGraph: {
     type: 'website',
     locale: 'en_US',
     url: env.SITE_URL,
     title: `${site.app.name} - ${site.app.tagline}`,
     description:
-      'Identify birds from photos in seconds. Get likely matches, species details, bird facts, and a saved history of discoveries.',
+      'Identify rocks, minerals, gemstones, and crystals from photos in seconds. Get likely matches, facts, physical properties, and saved discovery history.',
     siteName: site.app.name,
     images: [
       {
@@ -54,11 +54,11 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    site: '@birdlyapp',
+    site: '@crystalapp',
     creator: '@hakim98bologna',
     title: `${site.app.name} - ${site.app.tagline}`,
     description:
-      'Upload a bird photo, get fast AI matches, and explore detailed species info and birdwatching insights.',
+      'Upload a rock or crystal photo, get fast AI identification matches, and explore detailed geological insights.',
     images: ['/images/icon.png'],
   },
   robots: {

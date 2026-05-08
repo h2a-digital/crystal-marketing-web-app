@@ -16,7 +16,7 @@ export function HowItWorks() {
           <div className="mb-4 text-5xl">🎯</div>
           <h2 className="mb-4 text-4xl font-black text-gray-900 md:text-5xl">Four Simple Steps</h2>
           <p className="mx-auto max-w-2xl text-xl text-gray-600">
-            From bird photo to detailed identification in seconds.
+            From rock or crystal photo to detailed identification in seconds.
           </p>
         </motion.div>
 

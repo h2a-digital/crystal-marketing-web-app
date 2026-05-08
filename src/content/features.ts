@@ -3,42 +3,42 @@ export const features = [
     icon: '📸',
     title: 'Upload or Snap',
     description:
-      'Upload a bird photo from your gallery or take a new one directly in the app.',
+      'Upload a rock, mineral, gemstone, or crystal photo from your gallery, or take one on the spot.',
   },
   {
     icon: '🧠',
-    title: 'AI Bird Matching',
+    title: 'AI Identification Matches',
     description:
-      'Get likely bird matches in seconds with fast, photo-based AI identification.',
+      'Get likely identification matches in seconds with fast photo-based AI analysis.',
   },
   {
-    icon: '🕊️',
-    title: 'Species Details',
+    icon: '🪨',
+    title: 'Mineral & Crystal Coverage',
     description:
-      'See helpful species information including appearance, habitat, and behavior.',
+      'Identify rocks, minerals, gemstones, and crystals in one streamlined workflow.',
   },
   {
     icon: '💡',
-    title: 'Facts & Insights',
+    title: 'Geological Facts & Insights',
     description:
-      'Learn interesting facts and practical birdwatching insights for every identification.',
+      'Learn useful geological details, physical properties, and educational crystal insights.',
   },
   {
     icon: '🗂️',
-    title: 'Discovery History',
+    title: 'Saved Discovery History',
     description:
-      'Save your identifications to a history-style collection and revisit them anytime.',
+      'Save identifications to a history-style collection and revisit discoveries anytime.',
   },
   {
     icon: '🔎',
-    title: 'Result Detail View',
+    title: 'Detailed Result View',
     description:
-      'Open each result to view the bird name, description, facts, and rich metadata.',
+      'Open each result to view name, description, facts, physical properties, and metadata.',
   },
   {
     icon: '⚡',
-    title: 'Lightning Fast',
+    title: 'Fast From Photo to Result',
     description:
-      'From photo to bird match in seconds with a clean, simple workflow.',
+      'Go from photo upload to likely matches in seconds with a clean, simple experience.',
   },
 ];

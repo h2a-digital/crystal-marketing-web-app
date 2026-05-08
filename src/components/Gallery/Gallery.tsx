@@ -93,7 +93,7 @@ export function Gallery() {
                 type="button"
                 className={`transition-all ${
                   selectedIndex === index
-                    ? 'h-3 w-8 rounded-full bg-[#2F8A5A]'
+                    ? 'h-3 w-8 rounded-full bg-[#6E6259]'
                     : 'h-3 w-3 rounded-full bg-gray-300 hover:bg-gray-400'
                 }`}
                 aria-label={`View image ${index + 1}`}
