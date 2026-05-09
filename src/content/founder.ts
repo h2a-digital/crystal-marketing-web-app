@@ -6,7 +6,7 @@ export const founder = {
   paragraphs: [
     'Crystal started from a simple goal: make rock and crystal identification instant and genuinely useful in the real world.',
     'We designed the app to be frictionless: upload or take a photo, get likely matches, and learn valuable geological details right away.',
-    'Every identification is saved to your history so you can revisit names, descriptions, facts, physical properties, and metadata.',
+    'Every identification is saved to your history so you can revisit names, descriptions, facts, physical and chemical properties, and metadata.',
   ],
   ps: 'If you have ideas or feedback, I read every message at support@h2adigital.com.',
   links: {
